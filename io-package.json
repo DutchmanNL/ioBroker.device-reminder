@@ -1,8 +1,20 @@
 {
     "common": {
         "name": "device-reminder",
-        "version": "0.0.2-alpha.0",
+        "version": "0.0.2-alpha.1",
         "news": {
+            "0.0.2-alpha.1": {
+                "en": "fix URL",
+                "de": "URL korrigieren",
+                "ru": "исправить URL",
+                "pt": "corrigir URL",
+                "nl": "URL repareren",
+                "fr": "corriger l'URL",
+                "it": "correggere l'URL",
+                "es": "arreglar URL",
+                "pl": "napraw adres URL",
+                "zh-cn": "修正网址"
+            },
             "0.0.2-alpha.0": {
                 "en": "fix URL",
                 "de": "URL korrigieren",
