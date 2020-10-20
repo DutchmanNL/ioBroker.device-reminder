@@ -77,8 +77,9 @@ Nachdem nun auf "Speichern und schliessen" geklickt wurde, wird unter Objekte ->
 	### __WORK IN PROGRESS__
 -->
 
-### __WORK IN PROGRESS__
-* (xenon-s) 
+### 0.0.2-beta.3 (2020-10-20)
+* (xenon-s) initial commit
+
 
 ## License
 MIT License
