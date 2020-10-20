@@ -1,0 +1,91 @@
+{
+    "common": {
+        "name": "device-reminder",
+        "version": "0.0.1-alpha",
+        "news": {
+            "0.0.1-alpha": {
+                "en": "initial release",
+                "de": "Erstveröffentlichung",
+                "ru": "Начальная версия",
+                "pt": "lançamento inicial",
+                "nl": "Eerste uitgave",
+                "fr": "Première version",
+                "it": "Versione iniziale",
+                "es": "Versión inicial",
+                "pl": "Pierwsze wydanie",
+                "zh-cn": "首次出版"
+            }
+        },
+        "title": "device-reminder",
+        "titleLang": {
+            "en": "device-reminder",
+            "de": "device-reminder",
+            "ru": "Шаблон",
+            "pt": "Modelo",
+            "nl": "Sjabloon",
+            "fr": "Modèle",
+            "it": "Modello",
+            "es": "Plantilla",
+            "pl": "Szablon",
+            "zh-cn": "范本"
+        },
+        "desc": {
+            "en": "device-reminder for adapter development",
+            "de": "Überwachung von Gerätezuständen",
+            "ru": "Шаблон для разработки адаптера",
+            "pt": "Modelo para desenvolvimento de adaptador",
+            "nl": "Sjabloon voor adapterontwikkeling",
+            "fr": "Modèle de développement d'adaptateur",
+            "it": "Modello per lo sviluppo dell'adattatore",
+            "es": "Plantilla para el desarrollo de adaptadores",
+            "pl": "Szablon do tworzenia adapterów",
+            "zh-cn": "适配器开发的模板"
+        },
+        "authors": [
+            "S. Feldkamp <ente_s@hotmail.de>"
+        ],
+        "keywords": [
+            "device-reminder device-notifications"
+        ],
+        "license": "MIT",
+        "platform": "Javascript/Node.js",
+        "main": "main.js",
+        "icon": "icon.png",
+        "enabled": true,
+        "extIcon": "https://github.com/Xenon-s/device-reminder/blob/master/admin/icon.png",
+        "readme": "https://github.com/Xenon-s/device-reminder/blob/master/README.md",
+        "loglevel": "info",
+        "mode": "daemon",
+        "type": "energy",
+        "compact": true,
+        "materialize": true,
+        "materializeTab": true,
+        "adminTab": {
+            "singleton": true,
+            "name": {
+                "en": "device-reminder",
+                "de": "device-reminder",
+                "ru": "Шаблон",
+                "pt": "Modelo",
+                "nl": "Sjabloon",
+                "fr": "Modèle",
+                "it": "Modello",
+                "es": "Plantilla",
+                "pl": "Szablon",
+                "zh-cn": "范本（JavaScript）"
+            },
+            "link": "",
+            "fa-icon": "info"
+        },
+        "supportCustoms": true,
+        "dependencies": [
+            {
+                "js-controller": ">=2.0.0"
+            }
+        ],
+        "installedFrom": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631"
+    },
+    "native": {},
+    "objects": [],
+    "instanceObjects": []
+}

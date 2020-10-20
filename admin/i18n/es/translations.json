@@ -1,0 +1,16 @@
+{
+    "User input": "entrada del usuario",
+    "computer": "computadora",
+    "device-reminder adapter settings": "Configuración del adaptador para recordatorio de dispositivo",
+    "deviceID": "ID del dispositivo",
+    "deviceName": "nombre del dispositivo",
+    "dishwasher": "lavavajillas",
+    "dryer": "secadora",
+    "endmessage": "mensaje final",
+    "option1": "Opción 1",
+    "option2": "opcion 2",
+    "ownGetAdminCommands": "ownGetAdminCommands",
+    "startmessage": "mensaje de inicio",
+    "washing machine": "lavadora",
+    "water heater": "calentador de agua"
+}

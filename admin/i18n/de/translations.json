@@ -1,0 +1,19 @@
+{
+    "User input": "Benutzereingabe",
+    "computer": "Computer",
+    "device-reminder adapter settings": "Adaptereinstellungen für die Geräteerinnerung",
+    "deviceID": "Geräte ID",
+    "deviceName": "Gerätename",
+    "dishwasher": "Geschirrspüler",
+    "dryer": "Trockner",
+    "endmessage": "endmessage",
+    "option1": "Option 1",
+    "option2": "Option 2",
+    "ownGetAdminCommands": "ownGetAdminCommands",
+    "startmessage": "Startnachricht",
+    "washing machine": "Waschmaschine",
+    "water heater": "Wasserkocher",
+    "path ID power consumption": "path ID power consumption",
+    "path ID switch on/off": "path ID switch on/off"
+
+}
