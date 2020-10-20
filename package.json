@@ -1,25 +1,25 @@
 {
-  "_from": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
-  "_id": "iobroker.device-reminder@0.0.1",
+  "_from": "https://github.com/Xenon-s/ioBroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
+  "_id": "ioBroker.device-reminder@0.0.1",
   "_inBundle": false,
   "_integrity": "sha512-DV/HKb8l0IQanLA8TuCy5AgXh2FH7VVT6bLOaoVFgv9B29kvpPAKbDQFl9cb6dyGm+VzG8lPjJt9DxBNAUP0ug==",
-  "_location": "/iobroker.device-reminder",
+  "_location": "/ioBroker.device-reminder",
   "_phantomChildren": {},
   "_requested": {
     "type": "remote",
-    "raw": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
-    "rawSpec": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
-    "saveSpec": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
-    "fetchSpec": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631"
+    "raw": "https://github.com/Xenon-s/ioBroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
+    "rawSpec": "https://github.com/Xenon-s/ioBroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
+    "saveSpec": "https://github.com/Xenon-s/ioBroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
+    "fetchSpec": "https://github.com/Xenon-s/ioBroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
+  "_resolved": "https://github.com/Xenon-s/ioBroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
   "_shasum": "afa0c326bb28a8cefad6d9847e49c98e75d1ee24",
-  "_spec": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
-  "_where": "/opt/iobroker",
+  "_spec": "https://github.com/Xenon-s/ioBroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631",
+  "_where": "/opt/ioBroker",
   "author": {
     "name": "sfeldkamp",
     "email": "ente_s@hotmail.de"
@@ -76,5 +76,5 @@
     "test:package": "mocha test/package --exit",
     "test:unit": "mocha test/unit --exit"
   },
-  "version": "0.0.1"
+  "version": "0.0.2-alpha.0"
 }

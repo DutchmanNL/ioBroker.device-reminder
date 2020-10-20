@@ -77,6 +77,10 @@ Nachdem nun auf "Speichern und schliessen" geklickt wurde, wird unter Objekte ->
 	### __WORK IN PROGRESS__
 -->
 
+### 0.0.2-alpha.0 (2020-10-20)
+* (xenon-s) fix URL
+
+
 ### 0.0.1 (2020-10-20)
 * (xenon-s) initial commit
 

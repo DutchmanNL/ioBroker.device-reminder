@@ -1,8 +1,20 @@
 {
     "common": {
         "name": "device-reminder",
-        "version": "0.0.1",
+        "version": "0.0.2-alpha.0",
         "news": {
+            "0.0.2-alpha.0": {
+                "en": "fix URL",
+                "de": "URL korrigieren",
+                "ru": "исправить URL",
+                "pt": "corrigir URL",
+                "nl": "URL repareren",
+                "fr": "corriger l'URL",
+                "it": "correggere l'URL",
+                "es": "arreglar URL",
+                "pl": "napraw adres URL",
+                "zh-cn": "修正网址"
+            },
             "0.0.1": {
                 "en": "initial release",
                 "de": "Erstveröffentlichung",
@@ -83,7 +95,7 @@
                 "js-controller": ">=2.0.0"
             }
         ],
-        "installedFrom": "https://github.com/Xenon-s/iobroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631"
+        "installedFrom": "https://github.com/Xenon-s/ioBroker.device-reminder/tarball/cefc2d953c5bf56f5eb5a9c8e394e404693ce631"
     },
     "native": {},
     "objects": [],
