@@ -77,14 +77,17 @@ Nachdem nun auf "Speichern und schliessen" geklickt wurde, wird unter Objekte ->
 	### __WORK IN PROGRESS__
 -->
 
-### 0.0.2-beta.3 (2020-10-20)
+### 0.0.1 (2020-10-20)
 * (xenon-s) initial commit
 
 
+
+
 ## License
+
 MIT License
 
-Copyright (c) 2020 sfeldkamp <ente_s@hotmail.de>
+Copyright (c) 2020 xenon-s
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
